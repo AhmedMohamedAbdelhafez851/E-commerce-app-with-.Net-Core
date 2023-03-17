@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "V2JEXSVgaq+c9ZzPL/Wl2WwrYruoFqgDCACFl1fYM4M=",
+  "Source": "Domains",
+  "BasePath": "_content/Domains",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Domains\\wwwroot",
+      "Source": "Domains",
+      "ContentRoot": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Domains.styles.css",
+      "SourceId": "Domains",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "Domains.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Domains.styles.css"
+    },
+    {
+      "Identity": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Domains.bundle.scp.css",
+      "SourceId": "Domains",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "Domains.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Domains.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\wwwroot\\background.png",
+      "SourceId": "Domains",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Domains",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Disk C\\Ali Shahin New Course\\Template New\\LapShop\\Domains\\wwwroot\\",
+      "BasePath": "_content/Domains",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

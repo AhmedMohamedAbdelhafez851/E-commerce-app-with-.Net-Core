@@ -1,0 +1,36 @@
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\bin\Debug\net6.0\Domains.deps.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\bin\Debug\net6.0\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\bin\Debug\net6.0\Domains.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\staticwebassets.build.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\staticwebassets.development.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\scopedcss\bundle\Domains.styles.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\scopedcss\projectbundle\Domains.bundle.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\refint\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\Domains.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Domains\obj\Debug\net6.0\ref\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\bin\Debug\net6.0\Domains.deps.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\bin\Debug\net6.0\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\bin\Debug\net6.0\Domains.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\staticwebassets.build.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\staticwebassets.development.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\scopedcss\bundle\Domains.styles.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\scopedcss\projectbundle\Domains.bundle.scp.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\refint\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\Domains.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Domains\obj\Debug\net6.0\ref\Domains.dll
