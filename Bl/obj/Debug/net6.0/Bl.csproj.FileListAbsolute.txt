@@ -1,0 +1,50 @@
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.deps.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.runtimeconfig.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\staticwebassets.build.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\staticwebassets.development.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\bundle\Bl.styles.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\projectbundle\Bl.bundle.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\refint\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.genruntimeconfig.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\ref\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\jsconfig1.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\jsconfig1.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Bl.deps.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Bl.runtimeconfig.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Bl.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Bl.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\bin\Debug\net6.0\Domains.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\scopedcss\bundle\Bl.styles.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\scopedcss\projectbundle\Bl.bundle.scp.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\refint\Bl.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\Bl.genruntimeconfig.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\Bl\obj\Debug\net6.0\ref\Bl.dll
