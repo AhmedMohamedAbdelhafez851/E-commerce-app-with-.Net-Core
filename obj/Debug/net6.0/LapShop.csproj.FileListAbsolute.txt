@@ -1,0 +1,172 @@
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\appsettings.Development.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\appsettings.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.exe
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.deps.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.runtimeconfig.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\LapShop.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.JSInterop.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Bl.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Domains.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.AssemblyReference.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.Resources.ResAdmin.resources
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.Resources.ResGeneral.resources
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.GenerateResource.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.AssemblyInfoInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.AssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.CoreCompileInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.MvcApplicationPartsAssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.MvcApplicationPartsAssemblyInfo.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.RazorAssemblyInfo.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.RazorAssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\staticwebassets.build.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\staticwebassets.development.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\scopedcss\bundle\LapShop.styles.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.CopyComplete
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\refint\LapShop.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\LapShop.genruntimeconfig.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\obj\Debug\net6.0\ref\LapShop.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Humanizer.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\LapShop\bin\Debug\net6.0\jsconfig1.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\jsconfig1.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\appsettings.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.staticwebassets.runtime.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.exe
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.deps.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.runtimeconfig.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\LapShop.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Humanizer.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Bl.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Domains.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Bl.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\bin\Debug\net6.0\Domains.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.AssemblyReference.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.Resources.ResAdmin.resources
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.Resources.ResGeneral.resources
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.GenerateResource.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.AssemblyInfoInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.AssemblyInfo.cs
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.CoreCompileInputs.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.RazorAssemblyInfo.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.RazorAssemblyInfo.cs
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\scopedcss\bundle\LapShop.styles.css
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.csproj.CopyComplete
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\refint\LapShop.dll
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.pdb
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\LapShop.genruntimeconfig.cache
+C:\Disk C\Ali Shahin New Course\Template New\LapShop\LapShop\obj\Debug\net6.0\ref\LapShop.dll
