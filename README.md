@@ -19,6 +19,9 @@ Entity Framework .
 
 Secure Web Api using JWT . 
 
+make structuer to project to ruseablel and contain mobile application and apis . 
+
+
 
 
 
