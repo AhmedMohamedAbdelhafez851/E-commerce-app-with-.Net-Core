@@ -4,27 +4,14 @@
 
 # Used in this Project
 
-
- Build this project using MVC architecture pattern.
- 
-• Using Razor pages to implement views.
-
 • I use sql server to build database for this project.
-
-C# Generics .
-
-OOP in design classes and relations between them .
-
-Entity Framework .
-
-Secure Web Api using JWT . 
-
-make structuer to project to ruseablel and contain mobile application and apis . 
-
-
-
-
-
+• Build this project using MVC architecture pattern.
+• Using Razor pages to implement views.
+• C# Generics and OOP in design classes and relations between them . 
+• Entity Framework .
+• make structuer to project to improving the reusability of code.
+• Using Dependency injection to improving the reusability of code.
+•Secure Web Api using JWT . 
 
 
 
