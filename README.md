@@ -16,7 +16,9 @@
 
 • make structuer to project to improving the reusability of code.
 
-• Using Dependency injection to improving the reusability of code.
+• Using Dependency injection to improving the reusability of code
+
+• Using Session to move data between controllers . 
 
 •Secure Web Api using JWT . 
 
@@ -34,7 +36,6 @@ Learn how to use the Repository, Unit of Work and specification pattern in .net 
 Using multiple DbContext as context boundaries
 
 Using ASP.NET Identity for login and registration
-
 
 Using Authorization in ASP.NET Core
 
