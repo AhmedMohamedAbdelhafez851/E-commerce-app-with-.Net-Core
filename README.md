@@ -20,6 +20,8 @@
 
 • Using cookies to move data between controllers and maintain user session state and for authentication purposes . 
 
+• Using ASP.NET Identity for login and registration . 
+
 •Secure Web Api using JWT . 
 
 
