@@ -12,11 +12,11 @@
 
 • C# Generics and OOP in design classes and relations between them . 
 
-• Entity Framework .
+• Apply Entity Framework Core to perform CRUD operations on a SQL Server database .
 
 • make structuer to project to improving the reusability of code.
 
-• Using Dependency injection to improving the reusability of code
+• Using Dependency injection, Interfaces, Inheritance, etc to improving the reusability of code . 
 
 • Using cookies to move data between controllers and maintain user session state and for authentication purposes . 
 
