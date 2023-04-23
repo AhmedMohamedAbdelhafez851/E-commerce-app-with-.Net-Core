@@ -6,15 +6,13 @@
 
 • I use sql server to build database for this project.
 
-• Build this project using MVC architecture pattern.
+• Build this project using MVC architecture pattern 
 
 • Using Razor pages to implement views.
 
-• C# Generics and OOP in design classes and relations between them . 
+• Using Domain Driven Design approach to create domain first models , C# Generics and OOP in design classes and relations between them . 
 
 • Apply Entity Framework Core to perform CRUD operations on a SQL Server database .
-
-• make structuer to project to improving the reusability of code.
 
 • Using Dependency injection, Interfaces, Inheritance, etc to improving the reusability of code . 
 
