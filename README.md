@@ -18,7 +18,7 @@
 
 • Using Dependency injection to improving the reusability of code
 
-• Using Session to move data between controllers . 
+• Using cookies to move data between controllers and maintain user session state and for authentication purposes . 
 
 •Secure Web Api using JWT . 
 
