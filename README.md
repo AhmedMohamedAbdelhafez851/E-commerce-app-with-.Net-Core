@@ -10,9 +10,11 @@
 
 • Using Razor pages to implement views.
 
-• Using Domain Driven Design approach to create domain first models , C# Generics and OOP in design classes and relations between them . 
+• Using Domain Driven Design(DDD) approach to create domain first models , C# Generics and OOP in design classes,relations between them . 
 
 • Apply Entity Framework Core to perform CRUD operations on a SQL Server database .
+
+• Using ActionFilters to make custom user authorization .
 
 • Using Dependency injection, Interfaces, Inheritance, etc to improving the reusability of code . 
 
@@ -28,8 +30,7 @@
 
 Setting up the developer environment
 
-Creating a multi project .net core application using the dotnet CLI
-
+Creating a multi project .net core application using the dotnet . 
 
 Learn how to use the Repository, Unit of Work and specification pattern in .net core
 
@@ -40,7 +41,6 @@ Using ASP.NET Identity for login and registration
 Using Authorization in ASP.NET Core
 
 Building a great looking UI using Bootstrap
-
 
 Paging, Sorting, Searching and Filtering
 
