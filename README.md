@@ -22,7 +22,13 @@
 
 • Using ASP.NET Identity for login and registration . 
 
-•Secure Web Api using JWT . 
+• Working with Web Api(create Api  - Test Api - Deliver Api )
+
+• Using Postman app to test Web Api .
+
+• Using Swagger to Documentating Api . 
+
+• Using JWT to secure Api. 
 
 
 
