@@ -22,7 +22,7 @@
 
 • Using ASP.NET Identity for login and registration . 
 
-• Working with Web Api(create Api  - Test Api - Deliver Api )
+• Working with Web Api(create Api  - Test Api - Deliver Api - ajax request )
 
 • Using Postman app to test Web Api .
 
